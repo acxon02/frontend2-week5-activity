@@ -9,7 +9,7 @@ const Home = () => {
 
   useEffect(() => {
     // IMPORTANTE: Reemplazar con la llave real de RAWG en clase
-    const API_KEY = '2a3f6a90fc644427b42cddeff0bbe478';
+    const API_KEY = '97740bb479914ff8a1ae1cbd278128d6';
 
     // 2. Función asíncrona nombrada convencionalmente
     const fetchGames = async () => {
@@ -46,7 +46,7 @@ const Home = () => {
   // 4. Renderizado principal
   return (
     <div className="container">
-      <h2 className="title">Juegos Populares</h2>
+      <h2 className="title">Juegos Mas populares</h2>
 
       <div className="games-grid">
         {/* Iteramos sobre el arreglo 'games' */}
