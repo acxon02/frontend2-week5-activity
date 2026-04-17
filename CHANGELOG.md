@@ -1,3 +1,10 @@
+# 1.0.0 (2026-04-17)
+
+
+### Features
+
+* cambiar titulo principal de la aplicacion ([#1](https://github.com/acxon02/frontend2-week5-activity/issues/1)) ([1530e16](https://github.com/acxon02/frontend2-week5-activity/commit/1530e168ee131b3ffc80d5e47f289f392e465cc4))
+
 # 1.0.0 (2026-04-12)
 
 
